@@ -1,11 +1,12 @@
-#📊 Stock Broker Client Dashboard
+📊 #Stock Broker Client Dashboard
 
 A fully interactive frontend-only stock tracking dashboard built using HTML, CSS, Vanilla JavaScript, Chart.js, and jsPDF.
 Users can log in with email, subscribe to real-time simulated stock prices, view live charts, generate PDF reports, and maintain subscription history, all stored in localStorage.
 
 ⚡ This project requires no backend, making it perfect for demos, portfolios, and GitHub Pages deployment.
 
-#🚀 Features
+🚀 #Features
+
 🔐 Login System
 
 Email-based login validation
@@ -76,7 +77,7 @@ Activity history
 
 Stored locally on the browser — no backend required.
 
-#🖥️ Technologies Used
+🖥️ #Technologies Used
 Technology	Purpose
 HTML5	Page structure
 CSS3	Modern UI, gradients, glassmorphism
